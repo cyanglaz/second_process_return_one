@@ -1,0 +1,6 @@
+name: second_process_return_one
+description: xxx
+version: 0.0.1
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
